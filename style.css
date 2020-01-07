@@ -1,0 +1,70 @@
+<style>
+.container {
+	position:relative;
+	margin: 0 auto; /* Center it */
+}
+.container img {vertical-align: middle;}
+
+.jumbotron {
+  color:  #50c666;
+  width: auto;
+  height: 400px;
+  padding: 70px;
+  background-image: url(guinea-pig-many.jpg); 
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+}
+.bg-cover {
+    background-attachment: scroll;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.navbar {
+	background-color: #50c666;
+}
+
+.row {color: #c55e0b;
+font-size: 15px;
+}
+.content {color: #3c464d;
+font-size: 15px;
+height: 500px;
+	overflow: auto;
+}
+#footer {color: #05210a;
+font-size: 15px;
+background-color: #50c666;
+padding: 30px;
+} 
+.nav {
+	background-color: #72bbf7;
+	color: #c55e0b;
+} 
+.col-sm-4 {
+	background-color: #f0e8e1;
+	padding: 40px 20px 10px 20px;
+}
+.nav-link {
+	font-size: 30px;
+	color: #c55e0b;
+}
+.photo {font-size: 15px;
+}
+textarea {
+  max-width: 100%;
+}
+.title {
+	color: #c55e0b;
+}
+a:link {
+	transition: .5s;
+	color: black;
+}
+a:hover {
+	color: #c21d20;
+}
+
+</style>
+ 
